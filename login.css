@@ -16,26 +16,21 @@ body {
 }
 
 .kamanda {
-    position: absolute;
-    width: 287px;
-    height: 117px;
-    left: 5%;
-    top: 0%;
-  
-    font-family: Cabin Sketch;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 58px;
-    line-height: 68px;
-    text-align: center;
-  
-    color: #FF4D00;
+	position: absolute;
+	left: 5%;
+	top: 0%;
+	font-family: 'Cabin Sketch', cursive;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 2rem;
+	text-align: center;
+	color: #FF4D00;
   }
 
 h1 {
 	font-weight: bold;
     margin: 0;
-    font-family: Cabin Sketch;
+    font-family: 'Cabin Sketch', cursive;
 }
 
 h2 {
